@@ -2,7 +2,7 @@
 name: Invitation to the OpInCo Org
 about: Describe this issue template's purpose here.
 title: ''
-labels: 'Invite on label'
+labels: ''
 assignees: ''
 
 ---

@@ -11,7 +11,7 @@ jobs:
         with:
           organization: OpInCo-Community
           label: Invite on label
-          repo-token: ${{ secrets.TOKEN_GITHUB }}
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
           comment: '<b>Invitation sent for the GitHub Organisation.</b>'
         env:
           INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
